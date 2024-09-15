@@ -1,4 +1,7 @@
-# October
+# Life Journal
+## October
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Zechariah 10](https://www.bible.com/bible/111/ZEC.10.NIV), [Zechariah 11](https://www.bible.com/bible/111/ZEC.11.NIV), [Zechariah 12](https://www.bible.com/bible/111/ZEC.12.NIV), [Psalms 126](https://www.bible.com/bible/111/PSA.126.NIV), [Luke 14](https://www.bible.com/bible/111/LUK.14.NIV) |

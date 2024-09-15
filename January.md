@@ -1,4 +1,6 @@
-# January
+# Life Journal
+## January
+
 
 | Day | Scriptures |
 | ---: | :--- |

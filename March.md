@@ -1,4 +1,7 @@
-# March
+# Life Journal
+## March
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Numbers 28](https://www.bible.com/bible/111/NUM.28.NIV), [Numbers 29](https://www.bible.com/bible/111/NUM.29.NIV), [Mark 8](https://www.bible.com/bible/111/MRK.8.NIV) |

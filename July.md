@@ -1,4 +1,7 @@
-# July
+# Life Journal
+## July
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Isaiah 1](https://www.bible.com/bible/111/ISA.1.NIV), [Isaiah 2](https://www.bible.com/bible/111/ISA.2.NIV), [Isaiah 3](https://www.bible.com/bible/111/ISA.3.NIV), [Titus 3](https://www.bible.com/bible/111/TIT.3.NIV) |

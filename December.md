@@ -1,4 +1,7 @@
-# December
+# Life Journal
+## December
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Romans 5](https://www.bible.com/bible/111/ROM.5.NIV), [Romans 6](https://www.bible.com/bible/111/ROM.6.NIV), [Romans 7](https://www.bible.com/bible/111/ROM.7.NIV), [Romans 8](https://www.bible.com/bible/111/ROM.8.NIV) |

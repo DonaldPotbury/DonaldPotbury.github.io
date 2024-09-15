@@ -1,4 +1,7 @@
-# June
+# Life Journal
+## June
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Proverbs 19](https://www.bible.com/bible/111/PRO.19.NIV), [Proverbs 20](https://www.bible.com/bible/111/PRO.20.NIV), [Proverbs 21](https://www.bible.com/bible/111/PRO.21.NIV), [Romans 13](https://www.bible.com/bible/111/ROM.13.NIV) |

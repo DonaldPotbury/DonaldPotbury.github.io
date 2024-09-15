@@ -1,4 +1,7 @@
-# May
+# Life Journal
+## May
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [1 Chronicles 14](https://www.bible.com/bible/111/1CH.14.NIV), [1 Chronicles 15](https://www.bible.com/bible/111/1CH.15.NIV), [Psalms 132](https://www.bible.com/bible/111/PSA.132.NIV), [Matthew 18](https://www.bible.com/bible/111/MAT.18.NIV) |

@@ -1,4 +1,7 @@
-# August
+# Life Journal
+## August
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Isaiah 65](https://www.bible.com/bible/111/ISA.65.NIV), [Isaiah 66](https://www.bible.com/bible/111/ISA.66.NIV), [Psalms 62](https://www.bible.com/bible/111/PSA.62.NIV), [John 3](https://www.bible.com/bible/111/JHN.3.NIV) |

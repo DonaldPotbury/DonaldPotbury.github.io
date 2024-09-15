@@ -1,4 +1,7 @@
-# November
+# Life Journal
+## November
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Psalms 121](https://www.bible.com/bible/111/PSA.121.NIV), [Mark 9](https://www.bible.com/bible/111/MRK.9.NIV), [Mark 10](https://www.bible.com/bible/111/MRK.10.NIV) |

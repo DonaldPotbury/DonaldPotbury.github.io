@@ -1,4 +1,7 @@
-# September
+# Life Journal
+## September
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Ezekiel 15](https://www.bible.com/bible/111/EZK.15.NIV), [Ezekiel 16](https://www.bible.com/bible/111/EZK.16.NIV), [Psalms 70](https://www.bible.com/bible/111/PSA.70.NIV), [Revelation 6](https://www.bible.com/bible/111/REV.6.NIV) |

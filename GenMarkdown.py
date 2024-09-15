@@ -47,7 +47,8 @@ for month in month_results:
     current_month = Month(month[0], month[1], month[2])
     print(current_month.name)
     with open("./{}.md".format(current_month.name), 'w') as md:
-        md.write("# {}\n".format(current_month.name))
+        md.write("# Life Journal\n")
+        md.write("## {}\n\n\n".format(current_month.name))
         md.write("| Day | Scriptures |\n")
         md.write("| ---: | :--- |\n")
         

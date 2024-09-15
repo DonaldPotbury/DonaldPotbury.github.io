@@ -1,4 +1,7 @@
-# April
+# Life Journal
+## April
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Judges 11](https://www.bible.com/bible/111/JDG.11.NIV), [Judges 12](https://www.bible.com/bible/111/JDG.12.NIV), [Psalms 50](https://www.bible.com/bible/111/PSA.50.NIV), [2 Corinthians 1](https://www.bible.com/bible/111/2CO.1.NIV) |

@@ -1,4 +1,7 @@
-# February
+# Life Journal
+## February
+
+
 | Day | Scriptures |
 | ---: | :--- |
 | 1 | [Exodus 30](https://www.bible.com/bible/111/EXO.30.NIV), [Exodus 31](https://www.bible.com/bible/111/EXO.31.NIV), [Exodus 32](https://www.bible.com/bible/111/EXO.32.NIV), [Acts 8](https://www.bible.com/bible/111/ACT.8.NIV) |
