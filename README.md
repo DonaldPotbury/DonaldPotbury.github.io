@@ -1,3 +1,3 @@
-# Life Journal Reading Plan
+# Don's Pages
 
-1. [January](./January.md)
+[Life Journal](./LifeJournal.md)
