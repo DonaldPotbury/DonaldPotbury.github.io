@@ -1,5 +1,5 @@
 # January
-<p align="right">[back](./README.md)</p>
+<div style="text-align: right"> [back](./README.md) </div>
 
 | Day | Scriptures |
 | ---: | :--- |
