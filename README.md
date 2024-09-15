@@ -7,8 +7,7 @@
 | 3 | [Genesis 6](https://www.bible.com/bible/111/GEN.6.NIV), [Genesis 7](https://www.bible.com/bible/111/GEN.7.NIV), [Genesis 8](https://www.bible.com/bible/111/GEN.8.NIV), [Luke 3](https://www.bible.com/bible/111/LUK.3.NIV) |
 | 4 | [Genesis 9](https://www.bible.com/bible/111/GEN.9.NIV), [Genesis 10](https://www.bible.com/bible/111/GEN.10.NIV), [Genesis 11](https://www.bible.com/bible/111/GEN.11.NIV), [Luke 4](https://www.bible.com/bible/111/LUK.4.NIV) |
 
-<details>
-<summary>January</summary>
+
 
 | Day | Scriptures |
 | ---: | :--- |
@@ -44,7 +43,7 @@
 | 30 | [Exodus 25](https://www.bible.com/bible/111/EXO.25.NIV), [Exodus 26](https://www.bible.com/bible/111/EXO.26.NIV), [Exodus 27](https://www.bible.com/bible/111/EXO.27.NIV), [Acts 6](https://www.bible.com/bible/111/ACT.6.NIV) |
 | 31 | [Exodus 28](https://www.bible.com/bible/111/EXO.28.NIV), [Exodus 29](https://www.bible.com/bible/111/EXO.29.NIV), [Acts 7](https://www.bible.com/bible/111/ACT.7.NIV) |
 
-</details>
+
 
 <details>
 <summary>February</summary>
