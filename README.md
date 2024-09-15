@@ -1,12 +1,6 @@
 # Life Journal Reading Plan
 
 
-
-
-<details>
-<summary>February</summary>
- 
- 
 1. [Exodus 30](https://www.bible.com/bible/111/EXO.30.NIV), [Exodus 31](https://www.bible.com/bible/111/EXO.31.NIV), [Exodus 32](https://www.bible.com/bible/111/EXO.32.NIV), [Acts 8](https://www.bible.com/bible/111/ACT.8.NIV) 
 2. [Exodus 33](https://www.bible.com/bible/111/EXO.33.NIV), [Exodus 34](https://www.bible.com/bible/111/EXO.34.NIV), [Psalms 16](https://www.bible.com/bible/111/PSA.16.NIV), [Acts 9](https://www.bible.com/bible/111/ACT.9.NIV) 
 3. [Exodus 35](https://www.bible.com/bible/111/EXO.35.NIV), [Exodus 36](https://www.bible.com/bible/111/EXO.36.NIV), [Acts 10](https://www.bible.com/bible/111/ACT.10.NIV) 
@@ -35,5 +29,3 @@
 26. [Numbers 19](https://www.bible.com/bible/111/NUM.19.NIV), [Numbers 20](https://www.bible.com/bible/111/NUM.20.NIV), [Psalms 28](https://www.bible.com/bible/111/PSA.28.NIV), [Mark 5](https://www.bible.com/bible/111/MRK.5.NIV) 
 27. [Numbers 21](https://www.bible.com/bible/111/NUM.21.NIV), [Numbers 22](https://www.bible.com/bible/111/NUM.22.NIV), [Numbers 23](https://www.bible.com/bible/111/NUM.23.NIV), [Mark 6](https://www.bible.com/bible/111/MRK.6.NIV), [Mark 7](https://www.bible.com/bible/111/MRK.7.NIV) 
 28. [Numbers 24](https://www.bible.com/bible/111/NUM.24.NIV), [Numbers 25](https://www.bible.com/bible/111/NUM.25.NIV), [Numbers 26](https://www.bible.com/bible/111/NUM.26.NIV), [Numbers 27](https://www.bible.com/bible/111/NUM.27.NIV), [1 Corinthians 13](https://www.bible.com/bible/111/1CO.13.NIV) | 
-
-</details>
