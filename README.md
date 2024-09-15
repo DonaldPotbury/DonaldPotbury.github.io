@@ -1,5 +1,4 @@
-# DonaldPotbury.github.io
-123
+# Life Journal Reading Plan
 
 | Day | Scriptures |
 | ---: | :--- |
