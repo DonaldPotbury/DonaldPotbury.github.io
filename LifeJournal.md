@@ -1,10 +1,12 @@
-# Description
+# Life Journal
 
-These pages display the Life Journal reading plan along with links to the corresponding chapters in bible.com.
+## Description
 
-The Life Journal Reading plan was developed by Wayne Cordeiro and is designed to help you read through the Old Testament once and the New Testament twice each year. For journals and related resources, visit lifejournal.cc.
+Life Journal is a Bible reading plan developed by Wayne Cordeiro.  It is designed to help you read through the Old Testament once and the New Testament twice each year. For journals and related resources, visit [lifejournal.cc](liferesources.cc).
 
-bible.com is a wonderful resource which has many versions of the the Bible and reading plans.  These pages point to the NIV.
+[bible.com](www.bible) is a wonderful resource.  There are versions of the the Bible, reading plans and other resources.  
+
+These pages are simply a convenient way to organize my reading.  And is not affiliated with either [lifejournal.cc](liferesources.cc) or [bible.com](www.bible)
 
 
 1. [January](./January.md)
