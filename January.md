@@ -1,5 +1,4 @@
 # January
-<div style="text-align: right"> [back](./README.md) </div>
 
 | Day | Scriptures |
 | ---: | :--- |
@@ -34,3 +33,5 @@
 | 29 | [Exodus 23](https://www.bible.com/bible/111/EXO.23.NIV), [Exodus 24](https://www.bible.com/bible/111/EXO.24.NIV), [Psalms 14](https://www.bible.com/bible/111/PSA.14.NIV), [Acts 5](https://www.bible.com/bible/111/ACT.5.NIV) |
 | 30 | [Exodus 25](https://www.bible.com/bible/111/EXO.25.NIV), [Exodus 26](https://www.bible.com/bible/111/EXO.26.NIV), [Exodus 27](https://www.bible.com/bible/111/EXO.27.NIV), [Acts 6](https://www.bible.com/bible/111/ACT.6.NIV) |
 | 31 | [Exodus 28](https://www.bible.com/bible/111/EXO.28.NIV), [Exodus 29](https://www.bible.com/bible/111/EXO.29.NIV), [Acts 7](https://www.bible.com/bible/111/ACT.7.NIV) |
+
+[back](./README.md)
