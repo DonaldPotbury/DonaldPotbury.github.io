@@ -2,11 +2,11 @@
 
 ## Description
 
-Life Journal is a Bible reading plan developed by Wayne Cordeiro.  It is designed to help you read through the Old Testament once and the New Testament twice each year. For journals and related resources, visit [www.lifejournal.cc](liferesources.cc).
+Life Journal is a Bible reading plan developed by Wayne Cordeiro.  It is designed to help you read through the Old Testament once and the New Testament twice each year. For journals and related resources, visit [lifejournal.cc](https://www.liferesources.cc/).
 
-[www.bible.com](www.bible) is a wonderful resource.  There are versions of the the Bible, reading plans and other resources.  
+[bible.com](https://www.bible.com/) is a wonderful resource.  There are versions of the the Bible, reading plans and other resources.  
 
-These pages are simply a convenient way to organize my reading.  And is not affiliated with either [www.lifejournal.cc](liferesources.cc) or [www.bible.com](www.bible)
+These pages are simply a convenient way to organize my reading.  And is not affiliated with either [www.lifejournal.cc](https://www.liferesources.cc/) or [bible.com](https://www.bible.com/)
 
 
 1. [January](./January.md)
