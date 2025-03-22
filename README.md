@@ -1,3 +1,3 @@
 # Main Menu
 
-[Life Journal](./LifeJournal.md)
+![Life Journal](./LifeJournal.md)
